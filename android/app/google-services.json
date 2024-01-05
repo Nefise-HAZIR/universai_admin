@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "440400020257",
+    "project_id": "universai",
+    "storage_bucket": "universai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440400020257:android:cee5527803d10628fb3460",
+        "android_client_info": {
+          "package_name": "com.example.univers_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkaav3t_s568E9BEeOTTM1H5lsgxy7f3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440400020257:android:eba51e6d00648d37fb3460",
+        "android_client_info": {
+          "package_name": "com.example.universai_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkaav3t_s568E9BEeOTTM1H5lsgxy7f3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
